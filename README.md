@@ -19,38 +19,31 @@ Sou Desenvolvedor Trainee Java, participante do programa Fourcamp 2026, com foco
 
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stacks ~</h3>
+
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+    alt="JAVA"
+    title="JAVA" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGh5rObAqxXLWapWjnOX-LuZ0m4PGj7RceLA&s"
+  />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="SQL" 
+    title="SQL"
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczQutq_Ycrkw6yb8_12uN7Fv5yr7MQUlqgw&s" 
 />
 
 <img
     align="left"
     alt="Github"
     title="GitHub"
-    width="30px"
+    width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
@@ -59,28 +52,11 @@ Sou Desenvolvedor Trainee Java, participante do programa Fourcamp 2026, com foco
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
 <br/>
 <br/>
 
@@ -92,14 +68,14 @@ Sou Desenvolvedor Trainee Java, participante do programa Fourcamp 2026, com foco
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=felipepfreitas&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=felipepfreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
