@@ -6,7 +6,7 @@
 
 #
 
-Sou Desenvolvedor Trainee Java, participante do programa Fourcamp 2026, com foco no desenvolvimento de soluções eficientes, bem estruturadas e orientadas a boas práticas de programação.
+Sou Desenvolvedor Trainee ll Java, com foco no desenvolvimento de soluções eficientes, bem estruturadas e orientadas a boas práticas de programação.
 
 #
 
