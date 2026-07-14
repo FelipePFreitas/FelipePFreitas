@@ -44,7 +44,7 @@ Sou Desenvolvedor Trainee ll Java, com foco no desenvolvimento de soluções efi
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=felipepfreitas&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-
+<br clear="all" />
 <img 
       align="left" 
       alt="GitHub Stats" 
