@@ -53,11 +53,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=felipepfreitas&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=felipepfreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=felipepfreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800" 
   />
 </p>
 
