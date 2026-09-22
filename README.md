@@ -18,7 +18,7 @@
 ### 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-freitas-aa8651316/)
-[![E-mail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipefreitas210891@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipefreitas210891@gmail.com)
 
 <br/>
 
